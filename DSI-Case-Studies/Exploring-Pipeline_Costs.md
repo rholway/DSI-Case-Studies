@@ -42,9 +42,8 @@ Based off of this, it is hard to compare company to company. We decided to norma
 ## What we learned
 - We learned how to loop through desired columns and normalize the data by re-assigning them
 - We used the `pandas.DataFrame.filter()` method to quickly observe specific columns
-<img src='figures/costsFilter.png' />
 - We first used `pandas.DataFrame.corr()` method to find relationships between the data columns. Thats how we got the idea to look at the costs columns
-<img src='figures/corr_df.png' />
+
 
 ## Future Improvements
 - Conduct Hypothesis testing on overall population vs company
