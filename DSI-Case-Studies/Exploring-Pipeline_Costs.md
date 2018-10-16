@@ -22,7 +22,7 @@ Started with an attempt on making a normal distribution of All Costs.
 We questioned the breakdown of costs among overall population.
 
 <!-- Pie chart here -->
-<img src='figures/pie_chart.png' />
+
 
 
 The Environmental Remediation and Emergency Response have the highest percentages.
